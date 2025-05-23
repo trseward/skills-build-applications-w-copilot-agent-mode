@@ -27,7 +27,7 @@ DEBUG = True
 
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'localhost', '127.0.0.1', 'cuddly-yodel-6qpv56j7q643rjpw-8000.app.github.dev']
 
 
 # Application definition
